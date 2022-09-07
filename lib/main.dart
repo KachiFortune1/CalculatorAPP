@@ -1,5 +1,3 @@
-// ignore_for_file: deprecated_member_use, prefer_const_constructors
-
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
